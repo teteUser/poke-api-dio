@@ -1,2 +1,2 @@
-# Project Pokemon API with HTML, CSS and Javascript
+# Project Pokedex API with HTML, CSS and Javascript
 #### Digital Innovation One
