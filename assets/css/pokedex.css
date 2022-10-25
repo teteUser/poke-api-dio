@@ -76,6 +76,10 @@
     cursor: pointer;
 }
 
+.show-info-name, .show-info-img {
+    cursor: pointer;
+}
+
 .normal {
     background-color: #a6a877;
 }
