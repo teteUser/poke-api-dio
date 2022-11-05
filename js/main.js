@@ -39,7 +39,4 @@ loadMoreButton.addEventListener('click', () => {
 function showPokemonInfo(pokemonNumber){
     console.log('=====');
     console.log(pokemonNumber)
-    //let pokemon = JSON.parse(pokemonStr);
-    //console.log('Name: ' + pokemon.name);
-    //console.log('Type: ' + pokemon.type);
 }
